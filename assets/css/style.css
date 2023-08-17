@@ -1,0 +1,20 @@
+/*
+Theme Name: Tên Theme Của Bạn
+Author: Tên Tác Giả
+Version: 1.0
+Description: Mô tả về theme của bạn
+*/
+
+/* Thêm các quy tắc CSS tùy chỉnh dưới đây */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.main-content {
+    display: flex;
+}
+
+.nav-menu {
+    display: flex;
+
+}
